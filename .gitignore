@@ -37,7 +37,6 @@ ENV/
 .env.local
 
 # Database
-*.db
 *.sqlite
 *.sqlite3
 
@@ -46,7 +45,6 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db
 
 # Testing
 .pytest_cache/
